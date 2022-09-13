@@ -10,3 +10,4 @@
 - [Эффективное использование Github](https://habr.com/ru/company/2gis/blog/306166/)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+- [GitHub Flow](https://habr.com/ru/post/346066/)
